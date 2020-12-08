@@ -1,0 +1,74 @@
+/*Base classes*/
+.container1 {
+	width: 1170px;
+	margin: 0 auto;
+	background-color: aqua;
+}
+.container2 {
+	width: 1088px;
+	margin: 0 auto;
+}
+.f-left {
+	float: left;
+}
+.f-right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+/*Header styles*/
+.logo {
+	float:left;
+	margin-right: 103px;
+}
+.navigation {
+	float: left;
+}
+.nav-li {
+	float: left;
+	margin-right: 15px;
+}
+/*Section styles*/
+.left-block,
+.right-block {
+	width: 570px;
+	background-color: #F2F2F2;
+}
+.text-block {
+	width: 355px;
+}
+.title-block {
+	text-transform: uppercase;
+}
+.section-title {
+	text-transform: uppercase;
+}
+.section-title a {
+	text-transform: lowercase;
+}
+/*Homework*/
+.home-left-block,
+.home-right-block {
+	background-color: #F8F8F8;
+	width: 536px;
+}
+.texts-wraper {
+	width: 260px;
+}
+.box1 {
+	width: 352px;
+	background-color: #F8F8F8;
+	float: left;
+}
+.size {
+	margin-right: 16px;
+}
+.texts-blocks {
+	text-align: center;
+}
+.box1-p {
+	width: 260px;
+	text-align: center;
+	display: inline-block;
+}
